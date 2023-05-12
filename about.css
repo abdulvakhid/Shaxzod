@@ -5877,7 +5877,7 @@ textarea.form-control {
 
 .title-brand {
   max-width: 730px;
-  margin: 0 auto;
+  margin-right: auto;
   position: relative;
   text-align: center;
   color: #FFFFFF;
