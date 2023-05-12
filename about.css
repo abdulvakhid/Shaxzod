@@ -4351,6 +4351,7 @@ textarea.form-control {
 
   .title-brand {
     max-width: 450px;
+    margin-right: auto;
   }
   .title-brand .type {
     font-size: 16px;
