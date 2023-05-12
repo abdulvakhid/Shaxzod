@@ -387,7 +387,6 @@ header {
 	font-weight: 700;
 	color: white;
 	margin-right: 15px;
-
 }
 
 .header {
@@ -417,21 +416,27 @@ header {
 
 .test {
 	font-size: 18px;
-	color: #8BD5D8;
+	color: #8bd5d8;
 }
 
 .item-test:not(:last-child) {
 	margin-bottom: 15px;
 }
 
-.m-title{
-color: red;
+.m-title {
+	color: red;
 }
 
 .test-link {
 	font-size: 20px;
 	font-weight: 700;
-color: #fff;
+	color: #fff;
+}
+.tests{
+z-index: 9992299;
+display: flex;
+flex-direction: column;
+justify-content: center;
 }
 
 /* animation */
@@ -530,14 +535,11 @@ color: #fff;
 	}
 }
 
-
-
 /* bolimlar */
 
-.list{
-display: flex;
-justify-content: space-between;
-align-items: center;
-gap: 13px;
+.list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 13px;
 }
-
